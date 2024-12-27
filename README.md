@@ -1,44 +1,28 @@
 # Project Name
-> Outline a brief description of your project.
+Landing Club Case Project...
 
 
 ## Table of Contents
-* [General Info](#general-information)
-* [Technologies Used](#technologies-used)
-* [Conclusions](#conclusions)
-* [Acknowledgements](#acknowledgements)
-
-<!-- You can include any other section that is pertinent to your problem -->
-
+* Dataset Overview.
+* Business Objective
+* Univariate Analysis
+* Analytical Approach
+* Bivariate Analysis
+  
 ## General Information
-- Provide general information about your project here.
-- What is the background of your project?
-- What is the business probem that your project is trying to solve?
-- What is the dataset that is being used?
-
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
+- To reduce financial losses by identifying high-risk loan applicants.
+- Use exploratory data analysis (EDA) to understand consumer and loan attributes that influence default tendencies!
+- Enable data-driven decision-making for loan approvals.
+- Loan DataSet.
 
 ## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
-
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
+- EDA reveals critical insights for minimizing credit loss!
+- Identifying high-risk applicants is essential for sustainable lending!
+- Insights can guide better portfolio and risk management strategies.![image](https://github.com/user-attachments/assets/68973682-fa27-4046-8e8a-95ea643cdfc0)
 
 
-## Technologies Used
-- library - version 1.0
-- library - version 2.0
-- library - version 3.0
 
-<!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
-## Acknowledgements
-Give credit here.
-- This project was inspired by...
-- References if any...
-- This project was based on [this tutorial](https://www.example.com).
 
 
 ## Contact
